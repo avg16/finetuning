@@ -1,2 +1,2 @@
 # finetuning
- loda loda
+LORA finetuning 
